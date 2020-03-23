@@ -1,2 +1,2 @@
 # Outer-Space
-Basic Space Shooter game with unity
+&nbsp;&nbsp;&nbsp;&nbsp;A simple version of space shooter game made with Unity. The game is designed for the computer.
